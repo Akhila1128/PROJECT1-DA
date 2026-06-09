@@ -177,7 +177,6 @@ streamlit run app.py
 ---
 
 # 👨‍💻 Author
-
-Akhila K  
-AI & Data Science Project  
-Summer Training Project
+K. Akhila
+# Demo Link
+https://project1-da-1.onrender.com
