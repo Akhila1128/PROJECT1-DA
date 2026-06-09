@@ -1,0 +1,63 @@
+/* MAIN APP */
+.main {
+    background-color: #020617;
+    color: #F8FAFC;
+}
+
+/* SIDEBAR */
+section[data-testid="stSidebar"] {
+    background-color: #0F172A;
+    width: 300px !important;
+}
+
+/* SIDEBAR TEXT */
+section[data-testid="stSidebar"] * {
+    color: white !important;
+}
+
+/* NAVIGATION */
+[data-testid="stSidebarNav"] a {
+    background-color: #1E293B;
+    margin-bottom: 10px;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+/* KPI CARDS */
+.stMetric {
+    background: linear-gradient(
+        135deg,
+        #111827,
+        #1E293B
+    );
+
+    padding: 20px;
+
+    border-radius: 18px;
+
+    border: 1px solid #334155;
+}
+
+/* BUTTONS */
+.stButton > button {
+
+    background: linear-gradient(
+        135deg,
+        #06B6D4,
+        #0891B2
+    );
+
+    color: white;
+
+    border-radius: 12px;
+
+    border: none;
+
+    padding: 12px;
+}
+
+/* LOGO */
+img {
+
+    border-radius: 12px;
+}
